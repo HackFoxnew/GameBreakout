@@ -22,6 +22,7 @@ addEventListener("resize",function Resize(){
  tamañoH = innerHeight;
  Canvas.width = tamañoW;
  Canvas.height = tamañoH;
+//Uwu
  
  
   
